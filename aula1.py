@@ -2,5 +2,5 @@
 print(123) # Na frente
 # Abaixo
 '''
-docstrings - comentário em várias linhas
+DocStrings - podem ter multiplas linhas, mas não é um comentário.
 '''
